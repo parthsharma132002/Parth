@@ -1,0 +1,16 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sun, 03 Sep 2023 22:09:30 at https://pxdraft.com/themeforest/tapsi/index-01-dark.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar +https://pxdraft.com/themeforest/tapsi/index-01-dark.html +https://pxdraft.com/themeforest/tapsi/index-01-dark.html +https://pxdraft.com/themeforest/tapsi/index-01-dark.html
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F  -%F  -%l "en, *" https://pxdraft.com/themeforest/tapsi/index-01-dark.html -O1 "D:\P2\portfolio" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar +https://pxdraft.com/themeforest/tapsi/index-01-dark.html +https://pxdraft.com/themeforest/tapsi/index-01-dark.html +https://pxdraft.com/themeforest/tapsi/index-01-dark.html )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+22:09:36	Warning: 	Moved Permanently for https://pxdraft.com/robots.txt
+22:09:36	Warning: 	Redirected link is identical because of 'URL Hack' option: https://pxdraft.com/robots.txt and https://www.pxdraft.com/robots.txt
+22:09:36	Warning: 	Warning moved treated for https://pxdraft.com/robots.txt (real one is https://www.pxdraft.com/robots.txt)
+22:10:01	Error: 	"Forbidden" (403) at link https://pxdraft.com/themeforest/tapsi/assets/vendor/ (from https://pxdraft.com/themeforest/tapsi/assets/js/custom.js)
+22:10:01	Error: 	"Not Found" (404) at link https://www.pxdraft.com/themeforest/tapsi/assets/vendor/owl-carousel/css/owl.video.play.png (from https://pxdraft.com/themeforest/tapsi/assets/vendor/owl-carousel/css/owl.carousel.min.css)
+
+HTTrack Website Copier/3.49-2 mirror complete in 31 seconds : 41 links scanned, 38 files written (2504002 bytes overall) [1734138 bytes received at 55939 bytes/sec], 1918974 bytes transferred using HTTP compression in 27 files, ratio 54%, 6.0 requests per connection
+(2 errors, 3 warnings, 0 messages)
